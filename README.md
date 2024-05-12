@@ -36,9 +36,7 @@ Para utilizar o projeto, siga as seguintes etapas:
 1. **Configure suas credenciais do Google AI Platform:**
    - Crie um projeto no Google Cloud Platform.
    - Habilite a API Google AI Platform.
-   - Crie uma conta de serviço e baixe suas credenciais no formato JSON.
-   - Defina a variável de ambiente `GOOGLE_APPLICATION_CREDENTIALS` com o caminho para o arquivo JSON das credenciais.
-
+   
 ## Como Contribuir
 
 Se você quiser contribuir para este projeto, sinta-se à vontade para abrir um pull request. Qualquer ajuda é bem-vinda!
