@@ -30,10 +30,10 @@ Mas atenção:
 
 ## Tecnologias Utilizadas
 
-- ![Gemini]: Um modelo de linguagem extenso da Google AI.
-- ![Google AI Platform]: Plataforma de aprendizado de máquina da Google para acessar o Gemini.
-- ![Python]: Linguagem de programação utilizada para desenvolver o chatbot.
-- ![GenAI library]: Biblioteca Python para interagir com o Gemini.
+- __*Gemini*__: Um modelo de linguagem extenso da Google AI.
+- __*Google AI Platform*__: Plataforma de aprendizado de máquina da Google para acessar o Gemini.
+- __*Python*__: Linguagem de programação utilizada para desenvolver o chatbot.
+- __*GenAI library*__: Biblioteca Python para interagir com o Gemini.
 
 ## Configuração
 
