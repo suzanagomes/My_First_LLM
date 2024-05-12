@@ -22,6 +22,12 @@ Em seguida, como parte de um desafio adicional, criei um Chatbot Personal Traine
 - Envia prompts para o Gemini e recebe treinos personalizados.
 - Exibe os treinos gerados pelo Gemini ao usuário.
 
+Mas atenção:
+
+⚠ Lembre-se: A execução de exercícios físicos sempre deve ser acompanhada por profissionais qualificados.
+
+⚠ Este chatbot é apenas uma ferramenta de estudo com intuito de auxiliar e inspirar a jornada fitness, mas não substitui a orientação profissional.
+
 ## Tecnologias Utilizadas
 
 - ![Gemini]: Um modelo de linguagem extenso da Google AI.
