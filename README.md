@@ -6,12 +6,14 @@
 
 Este é o meu primeiro projeto explorando o mundo dos LLMs (Large Language Models) utilizando o Gemini da Google. Inicialmente, fiz parte da IMERSÃO IA da Alura, onde compartilhei meus primeiros passos desde a instalação e configuração até a criação de um chatbot inteligente em Python.
 
+Aqui o projeto básico com os primeiros passos [Aqui](https://github.com/suzanagomes/My_First_LLM/blob/debf3fba6a12c62923233e3cac2c23db4103bf8c/Minha_Primeira_LLM_com_GEMINI.ipynb)
+
 # Projeto Desafio: Chatbot Personal Trainer
-
-
 
 ![Descrição da imagem](https://github.com/suzanagomes/My_First_LLM/blob/main/Chat_de_Personal_Trainer.jpg)
 
+
+O projeto Chatbot Personal Trainer em python [Aqui](https://github.com/suzanagomes/My_First_LLM/blob/debf3fba6a12c62923233e3cac2c23db4103bf8c/Personal_chatbot.ipynb)
 
 Em seguida, como parte de um desafio adicional, criei um Chatbot Personal Trainer com Gemini e LLM. Este repositório contém o código-fonte desse projeto, que permite a geração de treinos personalizados com base nas informações do usuário.
 
