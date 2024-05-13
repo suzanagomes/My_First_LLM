@@ -8,7 +8,7 @@ Este é o meu primeiro projeto explorando o mundo dos LLMs (Large Language Model
 
 Aqui o projeto básico com os primeiros passos [Aqui](https://github.com/suzanagomes/My_First_LLM/blob/debf3fba6a12c62923233e3cac2c23db4103bf8c/Minha_Primeira_LLM_com_GEMINI.ipynb)
 
-# Projeto Desafio: Chatbot Personal Trainer
+# Projeto Desafio: Chatbot Personal Trainer  - (Training GPT)
 
 ![Descrição da imagem](https://github.com/suzanagomes/My_First_LLM/blob/main/Chat_de_Personal_Trainer.jpg)
 
