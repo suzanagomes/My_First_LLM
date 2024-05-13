@@ -13,7 +13,6 @@ Aqui o projeto básico com os primeiros passos [Aqui](https://github.com/suzanag
 ![Descrição da imagem](https://github.com/suzanagomes/My_First_LLM/blob/main/Chat_de_Personal_Trainer.jpg)
 
 
-O projeto Chatbot Personal Trainer em python [Aqui](https://github.com/suzanagomes/My_First_LLM/blob/debf3fba6a12c62923233e3cac2c23db4103bf8c/Personal_chatbot.ipynb)
 
 Em seguida, como parte de um desafio adicional, criei um Chatbot Personal Trainer com Gemini e LLM. Este repositório contém o código-fonte desse projeto, que permite a geração de treinos personalizados com base nas informações do usuário.
 
@@ -44,7 +43,10 @@ Para utilizar o projeto, siga as seguintes etapas:
 1. **Configure suas credenciais do Google AI Platform:**
    - Crie um projeto no Google Cloud Platform.
    - Habilite a API Google AI Platform.
-   
+
+## Link do Projeto
+O projeto Chatbot Personal Trainer em python [Aqui](https://github.com/suzanagomes/My_First_LLM/blob/debf3fba6a12c62923233e3cac2c23db4103bf8c/Personal_chatbot.ipynb)
+
 ## Como Contribuir
 
 Se você quiser contribuir para este projeto, sinta-se à vontade para abrir um pull request. Qualquer ajuda é bem-vinda!
